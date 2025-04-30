@@ -8,9 +8,9 @@
 
 ##### A Web App running on PHP integrated with mySQL (through XAMPP, local host) that lets the user to add, remove, modify patient data from the local database
 
-  
-## Run this project at: [Ngrok Free domain services ](https://stable-social-duck.ngrok-free.app/)
 
+#### Run this project at: [Ngrok Free domain services ](https://stable-social-duck.ngrok-free.app/)
+> Note: Services may not be for available some devices  due to security parameters. This domain is acquired for free from Ngrok free tier sevices for demo purposes
 
 ## Screenshots (DEMO)  
 
